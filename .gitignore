@@ -12,3 +12,4 @@ bin/
 dlls/
 libs/
 packages/
+*.user
